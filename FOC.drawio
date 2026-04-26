@@ -332,6 +332,9 @@
         <mxCell id="7e5b_E0b13xaf_vDb93k-108" parent="7e5b_E0b13xaf_vDb93k-106" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="电流环PI" vertex="1">
           <mxGeometry height="30" width="111" x="13" y="20.496666666666783" as="geometry" />
         </mxCell>
+        <mxCell id="7e5b_E0b13xaf_vDb93k-122" parent="7e5b_E0b13xaf_vDb93k-106" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="PID" vertex="1">
+          <mxGeometry height="27" width="59" x="-5" as="geometry" />
+        </mxCell>
         <mxCell id="7e5b_E0b13xaf_vDb93k-109" edge="1" parent="1" source="7e5b_E0b13xaf_vDb93k-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
