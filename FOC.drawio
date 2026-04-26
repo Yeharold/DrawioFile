@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="P6rEGoIchih3W4M-ocrO">
-    <mxGraphModel dx="568" dy="298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1279" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,7 +69,7 @@
         <mxCell id="7e5b_E0b13xaf_vDb93k-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SVPWM" vertex="1">
           <mxGeometry height="60" width="80" x="514" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="7e5b_E0b13xaf_vDb93k-6" edge="1" parent="1" source="7e5b_E0b13xaf_vDb93k-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=oval;endFill=1;" target="7e5b_E0b13xaf_vDb93k-4">
+        <mxCell id="7e5b_E0b13xaf_vDb93k-6" edge="1" parent="1" source="7e5b_E0b13xaf_vDb93k-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;" target="7e5b_E0b13xaf_vDb93k-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="704" y="170" />
@@ -233,8 +233,8 @@
         <mxCell id="7e5b_E0b13xaf_vDb93k-65" edge="1" parent="1" source="7e5b_E0b13xaf_vDb93k-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;jumpStyle=arc;" target="7e5b_E0b13xaf_vDb93k-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="344" y="390" />
-              <mxPoint x="344" y="200" />
+              <mxPoint x="350" y="390" />
+              <mxPoint x="350" y="200" />
               <mxPoint x="404" y="200" />
             </Array>
             <mxPoint x="334" y="190" as="targetPoint" />
