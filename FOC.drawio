@@ -375,10 +375,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7e5b_E0b13xaf_vDb93k-123" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="BLDC" vertex="1">
-          <mxGeometry height="80" width="80" x="615" y="1382" as="geometry" />
+          <mxGeometry height="80" width="80" x="608" y="1390" as="geometry" />
         </mxCell>
         <mxCell id="7e5b_E0b13xaf_vDb93k-124" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="SVPWM" vertex="1">
-          <mxGeometry height="60" width="80" x="621" y="1292" as="geometry" />
+          <mxGeometry height="60" width="80" x="608" y="1288" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
