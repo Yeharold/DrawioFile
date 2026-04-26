@@ -508,7 +508,7 @@
             <mxGeometry height="61" width="162" x="903" y="2052.996666666667" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="ajbZ4rX3eXv3ZFNTfbHe-49" parent="1" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=default;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Clarke变换&lt;/span&gt;" vertex="1">
+        <mxCell id="ajbZ4rX3eXv3ZFNTfbHe-49" parent="1" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontStyle=1;fontSize=14;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Clarke变换&lt;/span&gt;" vertex="1">
           <mxGeometry height="36" width="87" x="819.496666666667" y="1978" as="geometry" />
         </mxCell>
       </root>
