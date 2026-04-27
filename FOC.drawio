@@ -563,7 +563,10 @@
           <mxGeometry height="30" width="35" x="750" y="1732" as="geometry" />
         </mxCell>
         <mxCell id="m5sCr-X5bQ6__JihmJ3C-15" parent="1" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=default;fontStyle=1;fontSize=26;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;SVPWM&lt;/span&gt;" vertex="1">
-          <mxGeometry height="36" width="87" x="12" y="1663" as="geometry" />
+          <mxGeometry height="36" width="87" x="92" y="1673.5" as="geometry" />
+        </mxCell>
+        <mxCell id="m5sCr-X5bQ6__JihmJ3C-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" value="STEP1" vertex="1">
+          <mxGeometry height="57" width="57" x="23.5" y="1663" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
